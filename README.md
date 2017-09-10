@@ -4,6 +4,10 @@ Windows installer for Prometheus and fireprog.exe.
 Install NSIS (Nullsoft Scriptable Install System) v3.01 prior to compilation of the project.
 Included Makefile is intended to use for cross-compilation on Linux.
 
+![Welcome](Images/Installer_Welcome.png "Welcome")
+
+![Components](Images/Installer_Components.png "Components")
+
 Copyright (C) 2017 Altynbek Isabekov, Onurhan Öztürk
 
 Prometheus-Installer is free software: you can redistribute it and/or modify
